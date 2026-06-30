@@ -1,0 +1,19 @@
+h2 {
+	margin: 0;
+	padding-top: 20px;
+}
+
+body {
+	text-align: center;
+	font-size: small;
+}
+
+input[type="checkbox" i] {
+	position: relative;
+    vertical-align: middle;
+    bottom: 1px;
+}
+
+.buttons {
+	margin-top: 40px;
+}
